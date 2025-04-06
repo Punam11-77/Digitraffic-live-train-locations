@@ -9,7 +9,7 @@ Frontend: Using HTML and CSS for the user interface.
 - Description: A web app that displays real-time train locations on a map using the DigiTraffic API.
 - Technologies Used: Flask, Leaflet.js, OpenStreetMap, etc.
 
-#Setup Instructions:
+# Setup Instructions:
 - Clone the repository.
 - Install dependencies: pip install flask requests.
 - Run the app: python app.py.
